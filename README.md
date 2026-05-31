@@ -8,12 +8,6 @@
 
 *"There is no place like 127.0.0.1"*
 
-
-![Location](https://img.shields.io/badge/📍_Location-127.0.0.1-58E1FF?style=for-the-badge&logoColor=black)
-![Linux](https://img.shields.io/badge/🐧_Linux-Enthusiast-FCC624?style=for-the-badge&logoColor=black)
-![Gamer](https://img.shields.io/badge/🎮_Gamer-For_Life-7B68EE?style=for-the-badge)
-![Anime](https://img.shields.io/badge/🎌_Weeb-Certified-FF6F91?style=for-the-badge)
-
 </div>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me

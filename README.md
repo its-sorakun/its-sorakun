@@ -16,22 +16,6 @@
 - ☁️ Exploring DevOps, Cloud Infrastructure, System Administration, Generative AI, and Full-Stack Development.
 - 🐧 Comfortable across the stack, from Linux administration and server management to AI-powered applications and cloud-native services.
 
-
-
-## 📜 How It Started
-
-- 📄 At 10, wrote my first HTML program and discovered browser Inspect Element, which quickly turned into an obsession with understanding how things worked behind the scenes.
-
-- 📱 Started breaking and fixing Android phones at 13 through custom ROMs and ROM porting.
-
-- 🐧 Discovered Linux at 14 and quickly fell down the rabbit hole of open-source software, system administration, and cybersecurity.
-
-- 🛡️ At 16, began responsibly reporting security vulnerabilities, including an open redirection issue in one of Google's sandbox domains, and later received a Certificate of Appreciation from Intel.
-
-- ⚙️ Looking back, every rabbit hole somehow led to another one.
-
-
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
 
 
@@ -84,24 +68,6 @@
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square\&logo=amazons3\&logoColor=white)
 
 </div>
-
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Featured Projects
-
-<div align="center">
-
-| &nbsp; | Project | Description |
-| :---: | :--- | :--- |
-| 🧠 | **AiTools** | Collection of AI-powered applications, experiments, and integrations |
-| 🎨 | **hyprdots-senpai** | Personal Hyprland dotfiles and Linux customization setup |
-| 📱 | **Device and Kernel trees** | Android platform tree for Redmi Note 7/7S custom ROMs |
-
-</div>
-
-<br>
-
-
 
 ## 🎌 Beyond Coding
 

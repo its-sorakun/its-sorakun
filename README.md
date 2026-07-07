@@ -23,5 +23,5 @@ Outside of programming, I lean toward functional minimalism and niche tech. You'
 
 
 <p align="center">
-  Explore more on <a href="https://its-sorakun.github.io">my portfolio</a> • よろしく 🌸
+  Explore more on <a href="https://sorakun.is-a.dev">my portfolio</a> • よろしく 🌸
 </p>

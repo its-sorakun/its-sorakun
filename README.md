@@ -1,7 +1,7 @@
 <p align="center">
 <img
   src="https://moewalls.com/wp-content/uploads/2026/03/meteorite-neverness-to-everness-thumb.jpg"
-  style="width:100%; height:300px; object-fit:cover;"
+  style="width:100%; height:360px; object-fit:cover;"
   alt="Banner">
 </p>
 

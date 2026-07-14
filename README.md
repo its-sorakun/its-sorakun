@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">
-  Hi, I'm Sora
+  Hi, I'm Sora(Rajat Raj)
   <img src="https://cdn-icons-png.flaticon.com/512/9633/9633829.png"
        height="50"
        alt="Hi"

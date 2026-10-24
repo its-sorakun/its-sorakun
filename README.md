@@ -17,9 +17,13 @@
 </p>
 
 ---
-I'm a learner from India driven by a curiosity to understand how computers work beneath the surface. Fascinated by computers since the age of nine, I've spent most of my time exploring Linux and Windows system administration, DevOps, automation, cloud infrastructure, and open source—building systems and occasionally breaking them just to understand the underlying mechanisms. Every now and then, I also build GenAI applications.
+I'm an introvert and a lifelong computer nerd from India. I've been fascinated by computers since I was nine, and that curiosity has never really gone away. I like figuring out how things work beneath the surface, whether that means exploring operating-system internals, tinkering with Linux and Windows, experimenting with native APIs, automating things, or building something just to see if I can.
 
-Outside of programming, I lean toward functional minimalism and niche tech. You'll usually find me watching anime, playing gacha games, ricing Linux, exploring and compiling Linux kernels, debloating Windows, installing custom ROMs, customizing mechanical keyboards, or fine-tuning high-fidelity audio and video setups with IEMs, DACs, K-Lite Codec Pack, madVR, and other enthusiast tools.
+Most of my projects start with a question, an itch to experiment, or something I want to understand firsthand. Some turn into useful tools, some remain experiments, and some exist simply because building them was fun. I'm not particularly interested in reinventing the wheel just for the sake of it. Sometimes I just want to understand how the wheel works.
+
+Outside of programming, I'm into anime, gaming, Linux ricing, kernel compilation, custom ROMs, mechanical keyboards, and high-fidelity audio and video. I enjoy the little details that make technology feel personal, from tweaking a desktop environment to finding the right IEMs and tuning a media setup.
+
+This GitHub is a collection of things I've built, things I've explored, and things I wanted to understand. Not everything needs to become a product. Sometimes the satisfaction is in figuring it out.
 
 
 <p align="center">

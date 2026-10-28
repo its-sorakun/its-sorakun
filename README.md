@@ -12,11 +12,10 @@
        alt="Hi"
        style="vertical-align: -8px;">
 </h1>
-<p align="center">
+<!-- <p align="center">
   <strong>Systems • Infrastructure • Linux • AI • Open Source</strong>
-</p>
+</p> -->
 
----
 I'm an introvert and a lifelong computer nerd from India. I've been fascinated by computers since I was nine, and that curiosity has never really gone away. I like figuring out how things work beneath the surface, whether that means exploring operating-system internals, tinkering with Linux and Windows, experimenting with native APIs, automating things, or building something just to see if I can.
 
 Most of my projects start with a question, an itch to experiment, or something I want to understand firsthand. Some turn into useful tools, some remain experiments, and some exist simply because building them was fun. I'm not particularly interested in reinventing the wheel just for the sake of it. Sometimes I just want to understand how the wheel works.
